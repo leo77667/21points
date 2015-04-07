@@ -118,7 +118,7 @@ int main(){
 	 						sum += 1;
 	 					else
 	 						sum += (com_set[i] - 48);
-	 		cout << sum << endl;
+	 	
 			}
 				
 			while((sum < total)||((sum == total)&&(total < 21))){                                              // redraw and count the sum
