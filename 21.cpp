@@ -144,7 +144,7 @@ int main(){
 	 						sum += 1;
 	 					else
 	 						sum += (com_set[l - 1] - 48);
-	 			cout << sum << endl;
+	 			
 	 		}
 	 		if ((sum == total)&&(total == 21)){
 	 			if (l == k){
